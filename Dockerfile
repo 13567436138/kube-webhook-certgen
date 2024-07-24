@@ -1,1 +1,1 @@
-FROM docker.io/luomonkeyking/kube-webhook-certgen:v1.1.1
+FROM docker.io/jettech/kube-webhook-certgen:v1.5.2
